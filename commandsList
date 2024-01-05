@@ -1,0 +1,7 @@
+git init		-	intilize git(creates .git folder)
+git status		-	
+git add (Single_File_Name/"."Multiple_Files) - Add files to the git repo(STAGING)
+git commit
+
+git remote add origin https_URL
+git push -u origin master
